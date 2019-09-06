@@ -32,3 +32,14 @@ print(spoluhlasky, "spoluhlasok")
 print(cisla, "cisel")
 print(ostatneZnaky, "ostatnych znakov")
 print("dakujeme")
+
+def generateNumber(number):
+	if (number % 2) and number > 0:
+		yield number
+		number-=number
+		
+
+	
+
+for cislo in generateNumber(10):
+	print(cislo)

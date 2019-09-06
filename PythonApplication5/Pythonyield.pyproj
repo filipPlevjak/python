@@ -2,14 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>a8085320-bd69-48df-8026-80d5f97be9c1</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectGuid>a202aa2e-3006-4451-bf88-99386fa59a55</ProjectGuid>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>PythonApplication5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>PythonApplication5</Name>
+    <Name>PythonYield</Name>
     <RootNamespace>PythonApplication5</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
